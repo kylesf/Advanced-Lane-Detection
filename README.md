@@ -1,9 +1,9 @@
-## Project 4 Documentation
+## Lane Finding Documentation
 #### By: Kyle Stewart-Frantz
 
 ****
 
-Scope of the Project:
+Scope:
     
 1. Camera Calibration
 2. Distortion Correction
@@ -17,13 +17,13 @@ Scope of the Project:
 
 [//]: # (Image References)
 
-[image_0]: ./Project_4_md_resources/0.png "Undistorted"
-[image_1]: ./Project_4_md_resources/1.png "Road Transformed"
-[image_2]: ./Project_4_md_resources/2.png "Bit Mask Extraction"
-[image_3]: ./Project_4_md_resources/3.png "Histogram Point Fit"
-[image_4]: ./Project_4_md_resources/4.png "Polynomial Fit"
-[image_5]: ./Project_4_md_resources/5.png "Lane Augmented"
-[image_6]: ./Project_4_md_resources/6.png "Close Up"
+[image_0]: ./md_resources/0.png "Undistorted"
+[image_1]: ./md_resources/1.png "Road Transformed"
+[image_2]: ./md_resources/2.png "Bit Mask Extraction"
+[image_3]: ./md_resources/3.png "Histogram Point Fit"
+[image_4]: ./md_resources/4.png "Polynomial Fit"
+[image_5]: ./md_resources/5.png "Lane Augmented"
+[image_6]: ./md_resources/6.png "Close Up"
 
 
 
